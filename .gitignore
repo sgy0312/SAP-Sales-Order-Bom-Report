@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# 临时文件
+*.tmp
+*.log
+*.bak
+*.swp
+*~
+
+# IDE
+.idea/
+.vscode/
